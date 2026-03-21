@@ -1,0 +1,12 @@
+C:\Users\zalan\OneDrive\Рабочий стол\reginaisthebest\Traplin\backend\Traplin.Core\bin\Debug\net8.0\Traplin.Core.deps.json
+C:\Users\zalan\OneDrive\Рабочий стол\reginaisthebest\Traplin\backend\Traplin.Core\bin\Debug\net8.0\Traplin.Core.dll
+C:\Users\zalan\OneDrive\Рабочий стол\reginaisthebest\Traplin\backend\Traplin.Core\bin\Debug\net8.0\Traplin.Core.pdb
+C:\Users\zalan\OneDrive\Рабочий стол\reginaisthebest\Traplin\backend\Traplin.Core\obj\Debug\net8.0\Traplin.Core.csproj.AssemblyReference.cache
+C:\Users\zalan\OneDrive\Рабочий стол\reginaisthebest\Traplin\backend\Traplin.Core\obj\Debug\net8.0\Traplin.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zalan\OneDrive\Рабочий стол\reginaisthebest\Traplin\backend\Traplin.Core\obj\Debug\net8.0\Traplin.Core.AssemblyInfoInputs.cache
+C:\Users\zalan\OneDrive\Рабочий стол\reginaisthebest\Traplin\backend\Traplin.Core\obj\Debug\net8.0\Traplin.Core.AssemblyInfo.cs
+C:\Users\zalan\OneDrive\Рабочий стол\reginaisthebest\Traplin\backend\Traplin.Core\obj\Debug\net8.0\Traplin.Core.csproj.CoreCompileInputs.cache
+C:\Users\zalan\OneDrive\Рабочий стол\reginaisthebest\Traplin\backend\Traplin.Core\obj\Debug\net8.0\Traplin.Core.dll
+C:\Users\zalan\OneDrive\Рабочий стол\reginaisthebest\Traplin\backend\Traplin.Core\obj\Debug\net8.0\refint\Traplin.Core.dll
+C:\Users\zalan\OneDrive\Рабочий стол\reginaisthebest\Traplin\backend\Traplin.Core\obj\Debug\net8.0\Traplin.Core.pdb
+C:\Users\zalan\OneDrive\Рабочий стол\reginaisthebest\Traplin\backend\Traplin.Core\obj\Debug\net8.0\ref\Traplin.Core.dll

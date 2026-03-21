@@ -1,0 +1,17 @@
+C:\Users\zalan\OneDrive\Рабочий стол\reginaisthebest\Traplin\backend\Traplin.Infrastructure\bin\Debug\net8.0\Traplin.Infrastructure.deps.json
+C:\Users\zalan\OneDrive\Рабочий стол\reginaisthebest\Traplin\backend\Traplin.Infrastructure\bin\Debug\net8.0\Traplin.Infrastructure.runtimeconfig.json
+C:\Users\zalan\OneDrive\Рабочий стол\reginaisthebest\Traplin\backend\Traplin.Infrastructure\bin\Debug\net8.0\Traplin.Infrastructure.dll
+C:\Users\zalan\OneDrive\Рабочий стол\reginaisthebest\Traplin\backend\Traplin.Infrastructure\bin\Debug\net8.0\Traplin.Infrastructure.pdb
+C:\Users\zalan\OneDrive\Рабочий стол\reginaisthebest\Traplin\backend\Traplin.Infrastructure\bin\Debug\net8.0\Traplin.Core.dll
+C:\Users\zalan\OneDrive\Рабочий стол\reginaisthebest\Traplin\backend\Traplin.Infrastructure\bin\Debug\net8.0\Traplin.Core.pdb
+C:\Users\zalan\OneDrive\Рабочий стол\reginaisthebest\Traplin\backend\Traplin.Infrastructure\obj\Debug\net8.0\Traplin.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\zalan\OneDrive\Рабочий стол\reginaisthebest\Traplin\backend\Traplin.Infrastructure\obj\Debug\net8.0\Traplin.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zalan\OneDrive\Рабочий стол\reginaisthebest\Traplin\backend\Traplin.Infrastructure\obj\Debug\net8.0\Traplin.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\zalan\OneDrive\Рабочий стол\reginaisthebest\Traplin\backend\Traplin.Infrastructure\obj\Debug\net8.0\Traplin.Infrastructure.AssemblyInfo.cs
+C:\Users\zalan\OneDrive\Рабочий стол\reginaisthebest\Traplin\backend\Traplin.Infrastructure\obj\Debug\net8.0\Traplin.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\zalan\OneDrive\Рабочий стол\reginaisthebest\Traplin\backend\Traplin.Infrastructure\obj\Debug\net8.0\Traplin..580AB0AB.Up2Date
+C:\Users\zalan\OneDrive\Рабочий стол\reginaisthebest\Traplin\backend\Traplin.Infrastructure\obj\Debug\net8.0\Traplin.Infrastructure.dll
+C:\Users\zalan\OneDrive\Рабочий стол\reginaisthebest\Traplin\backend\Traplin.Infrastructure\obj\Debug\net8.0\refint\Traplin.Infrastructure.dll
+C:\Users\zalan\OneDrive\Рабочий стол\reginaisthebest\Traplin\backend\Traplin.Infrastructure\obj\Debug\net8.0\Traplin.Infrastructure.pdb
+C:\Users\zalan\OneDrive\Рабочий стол\reginaisthebest\Traplin\backend\Traplin.Infrastructure\obj\Debug\net8.0\Traplin.Infrastructure.genruntimeconfig.cache
+C:\Users\zalan\OneDrive\Рабочий стол\reginaisthebest\Traplin\backend\Traplin.Infrastructure\obj\Debug\net8.0\ref\Traplin.Infrastructure.dll

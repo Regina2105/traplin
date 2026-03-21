@@ -1,0 +1,237 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\zalan\\OneDrive\\Рабочий стол\\reginaisthebest\\Traplin\\backend\\Traplin.Tests\\Traplin.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\zalan\\OneDrive\\Рабочий стол\\reginaisthebest\\Traplin\\backend\\Traplin.Core\\Traplin.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\zalan\\OneDrive\\Рабочий стол\\reginaisthebest\\Traplin\\backend\\Traplin.Core\\Traplin.Core.csproj",
+        "projectName": "Traplin.Core",
+        "projectPath": "C:\\Users\\zalan\\OneDrive\\Рабочий стол\\reginaisthebest\\Traplin\\backend\\Traplin.Core\\Traplin.Core.csproj",
+        "packagesPath": "C:\\Users\\zalan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\zalan\\OneDrive\\Рабочий стол\\reginaisthebest\\Traplin\\backend\\Traplin.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\zalan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.419/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\zalan\\OneDrive\\Рабочий стол\\reginaisthebest\\Traplin\\backend\\Traplin.Infrastructure\\Traplin.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\zalan\\OneDrive\\Рабочий стол\\reginaisthebest\\Traplin\\backend\\Traplin.Infrastructure\\Traplin.Infrastructure.csproj",
+        "projectName": "Traplin.Infrastructure",
+        "projectPath": "C:\\Users\\zalan\\OneDrive\\Рабочий стол\\reginaisthebest\\Traplin\\backend\\Traplin.Infrastructure\\Traplin.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\zalan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\zalan\\OneDrive\\Рабочий стол\\reginaisthebest\\Traplin\\backend\\Traplin.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\zalan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\zalan\\OneDrive\\Рабочий стол\\reginaisthebest\\Traplin\\backend\\Traplin.Core\\Traplin.Core.csproj": {
+                "projectPath": "C:\\Users\\zalan\\OneDrive\\Рабочий стол\\reginaisthebest\\Traplin\\backend\\Traplin.Core\\Traplin.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.419/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\zalan\\OneDrive\\Рабочий стол\\reginaisthebest\\Traplin\\backend\\Traplin.Tests\\Traplin.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\zalan\\OneDrive\\Рабочий стол\\reginaisthebest\\Traplin\\backend\\Traplin.Tests\\Traplin.Tests.csproj",
+        "projectName": "Traplin.Tests",
+        "projectPath": "C:\\Users\\zalan\\OneDrive\\Рабочий стол\\reginaisthebest\\Traplin\\backend\\Traplin.Tests\\Traplin.Tests.csproj",
+        "packagesPath": "C:\\Users\\zalan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\zalan\\OneDrive\\Рабочий стол\\reginaisthebest\\Traplin\\backend\\Traplin.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\zalan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\zalan\\OneDrive\\Рабочий стол\\reginaisthebest\\Traplin\\backend\\Traplin.Core\\Traplin.Core.csproj": {
+                "projectPath": "C:\\Users\\zalan\\OneDrive\\Рабочий стол\\reginaisthebest\\Traplin\\backend\\Traplin.Core\\Traplin.Core.csproj"
+              },
+              "C:\\Users\\zalan\\OneDrive\\Рабочий стол\\reginaisthebest\\Traplin\\backend\\Traplin.Infrastructure\\Traplin.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\zalan\\OneDrive\\Рабочий стол\\reginaisthebest\\Traplin\\backend\\Traplin.Infrastructure\\Traplin.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.419/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

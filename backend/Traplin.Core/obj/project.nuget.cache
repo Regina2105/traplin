@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DmQTmi7AGlE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zalan\\OneDrive\\Рабочий стол\\reginaisthebest\\Traplin\\backend\\Traplin.Core\\Traplin.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zalan\\.nuget\\packages\\fluentvalidation\\12.1.1\\fluentvalidation.12.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
