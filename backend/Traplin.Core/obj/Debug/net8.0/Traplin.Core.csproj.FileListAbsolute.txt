@@ -10,3 +10,4 @@ C:\Users\zalan\OneDrive\Рабочий стол\reginaisthebest\Traplin\backend\
 C:\Users\zalan\OneDrive\Рабочий стол\reginaisthebest\Traplin\backend\Traplin.Core\obj\Debug\net8.0\refint\Traplin.Core.dll
 C:\Users\zalan\OneDrive\Рабочий стол\reginaisthebest\Traplin\backend\Traplin.Core\obj\Debug\net8.0\Traplin.Core.pdb
 C:\Users\zalan\OneDrive\Рабочий стол\reginaisthebest\Traplin\backend\Traplin.Core\obj\Debug\net8.0\ref\Traplin.Core.dll
+C:\Users\zalan\OneDrive\Рабочий стол\reginaisthebest\Traplin\backend\Traplin.Core\obj\Debug\net8.0\Traplin.Core.sourcelink.json

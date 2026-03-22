@@ -121,3 +121,4 @@ C:\Users\zalan\OneDrive\Рабочий стол\reginaisthebest\Traplin\backend\
 C:\Users\zalan\OneDrive\Рабочий стол\reginaisthebest\Traplin\backend\Traplin.Api\obj\Debug\net8.0\Traplin.Api.pdb
 C:\Users\zalan\OneDrive\Рабочий стол\reginaisthebest\Traplin\backend\Traplin.Api\obj\Debug\net8.0\Traplin.Api.genruntimeconfig.cache
 C:\Users\zalan\OneDrive\Рабочий стол\reginaisthebest\Traplin\backend\Traplin.Api\obj\Debug\net8.0\ref\Traplin.Api.dll
+C:\Users\zalan\OneDrive\Рабочий стол\reginaisthebest\Traplin\backend\Traplin.Api\obj\Debug\net8.0\Traplin.Api.sourcelink.json

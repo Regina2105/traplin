@@ -15,3 +15,4 @@ C:\Users\zalan\OneDrive\Рабочий стол\reginaisthebest\Traplin\backend\
 C:\Users\zalan\OneDrive\Рабочий стол\reginaisthebest\Traplin\backend\Traplin.Infrastructure\obj\Debug\net8.0\Traplin.Infrastructure.pdb
 C:\Users\zalan\OneDrive\Рабочий стол\reginaisthebest\Traplin\backend\Traplin.Infrastructure\obj\Debug\net8.0\Traplin.Infrastructure.genruntimeconfig.cache
 C:\Users\zalan\OneDrive\Рабочий стол\reginaisthebest\Traplin\backend\Traplin.Infrastructure\obj\Debug\net8.0\ref\Traplin.Infrastructure.dll
+C:\Users\zalan\OneDrive\Рабочий стол\reginaisthebest\Traplin\backend\Traplin.Infrastructure\obj\Debug\net8.0\Traplin.Infrastructure.sourcelink.json

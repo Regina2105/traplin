@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Traplin.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+48033bf71cd10002e2238886e4400ca381f5e2b3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Traplin.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Traplin.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
